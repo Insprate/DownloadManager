@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "このバージョンのChromeではダウンロードAPIが使えないのでDevかBetaチャンネルにアップデートしてください"
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "開く"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "保存先のフォルダを開く"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "ダウンロード元のページを開く"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "URLのコピー"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "ディスクから削除"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "リストから削除"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "翻訳を手伝ってください！"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "すべてのダウンロード"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "設定"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "キャンセル"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "表示されているダウンロードをすべて消去します"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "すべて消去"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "完了したダウンロードをすべて消去します"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "完了済みを消去"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "ファイルが削除されたダウンロードをすべて消去します"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "削除済を消去"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "失敗したダウンロードをすべて消去します"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "失敗済をすべて消去"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "リストから消去"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "削除されています"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "ダウンロードをすばやく簡単に管理できます"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Show links to extensions that download files."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "古いダウンロードを読み込んでいます..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "他の拡張機能によってダウンロードされたファイルがあります。"
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "1月"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "11月"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "12月"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "2月"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "3月"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "4月"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "5月"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "6月"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "7月"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "8月"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "9月"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "10月"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "ダウンロードフォルダを開く"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "ダウンロードフォルダ"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "設定"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "設定"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "開く"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "開いています... 所要時間: $days$日 $hours$時間",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "もうすぐ開きます"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "開いています... 所要時間: $hours$時間 $mins$分",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "開いています... 所要時間: $mins$分 $sec$秒",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "開いています... 所要時間: $sec$秒",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "一時停止"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "リファラ"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "ファイル削除"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "再開"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "やり直し"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "検索..."
+   },
+   "searching": {
+      "description": "",
+      "message": "ヤギを転送しています...🐐"
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "保存先を表示"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "もっと古いダウンロードを表示"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "ダウンロード"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "残り $days$日 $hours$時間",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "読み込み完了..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "残り $hours$時間 $mins$分",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "残り $mins$分 $sec$秒",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "残り $sec$秒",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "ダウンロードしたファイルはありません"
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "該当なし"
+   }
+}
